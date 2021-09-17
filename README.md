@@ -1,4 +1,3 @@
-
 ## CRUD LARAVEL
 ### Usage Features
 - Php
@@ -7,7 +6,7 @@
 - Mysql
 
 ### Get stated
-- Clone repository with fallowing command: git clone 
+- Clone repository with fallowing command: git clone https://github.com/RosarioDeveloper/crud-laravel.git
 - Get in the folder project: cd crud-laravel
 - Run composer install
 
